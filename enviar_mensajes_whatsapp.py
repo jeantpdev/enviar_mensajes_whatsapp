@@ -2,7 +2,7 @@ import pyautogui, webbrowser
 from time import sleep
 
 #Numero al que se le quiere enviar mensajes
-webbrowser.open("https://web.whatsapp.com/send?phone=+573003764436")
+webbrowser.open("https://web.whatsapp.com/send?phone=+NUMERO")
 
 #Se coloca un temporizador para que cargue la pagina completa y pueda continuar
 sleep(10)
